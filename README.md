@@ -1,6 +1,6 @@
 # Bot que joga o jogo stopots
 
-![Bot stopots](https://img.shields.io/badge/)
+![Bot stopots](https://img.shields.io/badge/stopots-bot-blue)
 ![licence mit](https://img.shields.io/github/license/leosantosx/Ecoleta)
 
 <p>Bot que joga o jogo stopots</p>
