@@ -11,7 +11,6 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 
 - [Python](https://www.python.org/)
 - [Selenium](https://selenium-python.readthedocs.io/)
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 
 ## 📝 Licença
