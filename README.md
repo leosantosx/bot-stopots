@@ -12,6 +12,11 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 - [Python](https://www.python.org/)
 - [Selenium](https://selenium-python.readthedocs.io/)
 
+# Como usar
+
+1 - baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc
+2 - no seu cmd ou powershell digite:
+<pre><code>pip install -r requirements.txt<code><pre>
 
 # 📝 Licença
 
