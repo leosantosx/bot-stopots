@@ -14,10 +14,15 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 
 # Como usar
 
-<p>1 - baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc</p>
-<p>2 - no seu cmd ou powershell digite:</p>
-<pre><code>pip install -r requirements.txt</code></pre>
-
+<p>1 - Baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc</p>
+<p>2 - instale o git e baixe os arquivos</p>
+<p>3 - Vá até a pasta onde está os arquivos</p>
+<p>4 - No seu cmd ou powershell digite:</p>
+<pre><code>
+pip install -r requirements.txt
+python main.py
+</code></pre>
+<p>Caso não consiga fazer os passos anteriores voce pode baixar o executável</p>
 # 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte [LICENÇA](https://github.com/leosantosx/bot-stopots/blob/master/LICENSE) para obter detalhes.
