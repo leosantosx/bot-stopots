@@ -3,7 +3,7 @@
 ![Bot stopots](https://img.shields.io/badge/stopots-bot-blue)
 ![licence mit](https://img.shields.io/badge/license-MIT-yellowgreen)
 
-<img src="https://user-images.githubusercontent.com/48372094/93411114-c6968400-f870-11ea-9af2-f8a08221b434.jpg" alt="Imagem de demonstração" height="200px" width="400px">
+<img src="https://user-images.githubusercontent.com/48372094/93411114-c6968400-f870-11ea-9af2-f8a08221b434.jpg" alt="Imagem de demonstração" height="400px" width="800px">
 
 ## 🚀 Tecnologias utilizadas
 
