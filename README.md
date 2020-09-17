@@ -14,9 +14,9 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 
 # Como usar
 
-1 - baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc
-2 - no seu cmd ou powershell digite:
-<pre><code>pip install -r requirements.txt<code><pre>
+<p>1 - baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc</p>
+<p>2 - no seu cmd ou powershell digite:</p>
+<pre><code>pip install -r requirements.txt</code></pre>
 
 # 📝 Licença
 
