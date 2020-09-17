@@ -18,8 +18,7 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 <p>2 - instale o git e baixe os arquivos</p>
 <p>3 - Vá até a pasta onde está os arquivos</p>
 <p>4 - No seu cmd ou powershell digite:</p>
-<pre><code>
-pip install -r requirements.txt
+<pre><code>pip install -r requirements.txt
 python main.py
 </code></pre>
 <p>Caso não consiga fazer os passos anteriores voce pode baixar o executável</p>
