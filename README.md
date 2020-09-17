@@ -4,7 +4,8 @@
 ![licence mit](https://img.shields.io/badge/license-MIT-yellowgreen)
 
 <img src="https://user-images.githubusercontent.com/48372094/93411114-c6968400-f870-11ea-9af2-f8a08221b434.jpg" alt="Imagem de demonstração">
-## 🚀 Tecnologias utilizadas
+
+# 🚀 Tecnologias utilizadas
 
 O bot foi desenvolvido utilizando as seguintes tecnologias
 
@@ -12,7 +13,7 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 - [Selenium](https://selenium-python.readthedocs.io/)
 
 
-## 📝 Licença
+# 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte [LICENÇA](https://github.com/leosantosx/bot-stopots/blob/master/LICENSE) para obter detalhes.
 
