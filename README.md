@@ -12,7 +12,7 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 - [Python](https://www.python.org/)
 - [Selenium](https://selenium-python.readthedocs.io/)
 
-# 🧩Como usar
+# 🧩 Como usar
 
 <p>1 - Baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc</p>
 <p>2 - instale o git e baixe os arquivos</p>
