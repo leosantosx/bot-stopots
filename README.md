@@ -21,7 +21,7 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 <pre><code>pip install -r requirements.txt
 python main.py
 </code></pre>
-<p>Caso não consiga fazer os passos anteriores tem a versão executável. faça o <a href="https://github.com/leosantosx/bot-stopots/archive/master.zip">Download</a> dos arquivos ir até o arquivo bot-stopots e clicar nele</p>
+<p>Caso não consiga fazer os passos anteriores tem a versão executável. faça o <a href="https://github.com/leosantosx/bot-stopots/archive/master.zip">Download</a> dos arquivos e vá até o arquivo bot-stopots e clique nele, logo aguarde que o programa irá executar.</p>
 # 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte [LICENÇA](https://github.com/leosantosx/bot-stopots/blob/master/LICENSE) para obter detalhes.
