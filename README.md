@@ -1,15 +1,15 @@
-# Bot que joga o jogo Stopots
+# Automatizando o jogo Stopots
 
 ![Bot stopots](https://img.shields.io/badge/stopots-bot-blue)
 ![licence mit](https://img.shields.io/badge/license-MIT-yellowgreen)
 
-<p>O Bot preenche os campos de acordo com a base de dados dele, avalia as respostas e clica no botão estou pronto para começar a jogar, ou seja, ele automatiza todas as rodadas do jogo</p>
+<p>O Bot preenche os campos de acordo com a base de dados dele, avalia as respostas e clica no botão estou pronto para começar a jogar, ou seja, ele automatiza todas as rodadas do jogo.</p>
 
 <img src="https://user-images.githubusercontent.com/48372094/93411114-c6968400-f870-11ea-9af2-f8a08221b434.jpg" alt="Imagem de demonstração">
 
 # 🚀 Tecnologias utilizadas
 
-O bot foi desenvolvido utilizando as seguintes tecnologias
+O bot foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Python](https://www.python.org/)
 - [Selenium](https://selenium-python.readthedocs.io/)
@@ -17,8 +17,8 @@ O bot foi desenvolvido utilizando as seguintes tecnologias
 # 🧩 Como usar
 
 <p>1 - Baixe o <a href="https://www.python.org/downloads/">Python</a> no seu pc</p>
-<p>2 - instale o git e baixe os arquivos</p>
-<p>3 - Vá até a pasta onde está os arquivos</p>
+<p>2 - instale o git e baixe os arquivos.</p>
+<p>3 - Vá até a pasta onde está os arquivos.</p>
 <p>4 - No seu cmd ou powershell digite:</p>
 <pre><code>pip install -r requirements.txt
 python main.py
