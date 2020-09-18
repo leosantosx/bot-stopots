@@ -1,4 +1,4 @@
-# Bot que joga o jogo stopots
+# Automatizando o jogo Stopots
 
 ![Bot stopots](https://img.shields.io/badge/stopots-bot-blue)
 ![licence mit](https://img.shields.io/badge/license-MIT-yellowgreen)
