@@ -13,6 +13,7 @@ O bot foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Python](https://www.python.org/)
 - [Selenium](https://selenium-python.readthedocs.io/)
+- [Navegador Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 
 # 🧩 Como usar
 
